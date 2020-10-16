@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T09:37:00.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="pkPrsJAgAAxwu_Sa9K2D" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T09:47:15.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="qLVP6bPNBVgqORZ4QRdY" version="13.7.7" type="github">
   <diagram id="QFBMCSHLPr9kDl6M2E-0" name="Page-1">
     <mxGraphModel dx="868" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,43 +10,19 @@
         <mxCell id="JKD6H21KlIi6bBvI1oGc-32" value="merk: Opel corsa&#xa;type: Fiesta Corsa&#xa;soort: personenauto" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JKD6H21KlIi6bBvI1oGc-31" vertex="1">
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="JKD6H21KlIi6bBvI1oGc-18" value="Rijbewijs" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="610" y="-170" width="210" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="JKD6H21KlIi6bBvI1oGc-19" value="rijbewijsnummer: 3982053960&#xa;persoonsgegevens: Hilde Achterbos&#xa;geldig-vanaf-datum: 23-03-2010&#xa;geldig-tot-datum: 23-03-2020&#xa;type: Fiesta Corsa" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JKD6H21KlIi6bBvI1oGc-18" vertex="1">
-          <mxGeometry y="30" width="210" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="JKD6H21KlIi6bBvI1oGc-8" value="Getuige" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="590" y="185" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="JKD6H21KlIi6bBvI1oGc-9" value="naam: Marjan Jansen&#xa;geboortedatum: 12-03-1989&#xa;telefoonnummer: 06-23954294" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JKD6H21KlIi6bBvI1oGc-8" vertex="1">
           <mxGeometry y="30" width="180" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="JKD6H21KlIi6bBvI1oGc-6" value="Inzittende" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="345" y="-390" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="JKD6H21KlIi6bBvI1oGc-7" value="naam: Hugo Veterink&#xa;geboortedatum: 09-03-1983&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JKD6H21KlIi6bBvI1oGc-6" vertex="1">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="JKD6H21KlIi6bBvI1oGc-47" value="" style="shape=link;html=1;rounded=0;entryX=-0.019;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="JKD6H21KlIi6bBvI1oGc-19" edge="1">
+        <mxCell id="JKD6H21KlIi6bBvI1oGc-47" value="" style="shape=link;html=1;rounded=0;entryX=-0.019;entryY=0.411;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" parent="1" target="JKD6H21KlIi6bBvI1oGc-19" edge="1" source="JKD6H21KlIi6bBvI1oGc-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="530" y="-103" as="sourcePoint" />
+            <mxPoint x="510" y="-120" as="sourcePoint" />
             <mxPoint x="600" y="-105" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JKD6H21KlIi6bBvI1oGc-48" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" parent="JKD6H21KlIi6bBvI1oGc-47" connectable="0" vertex="1">
-          <mxGeometry x="1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JKD6H21KlIi6bBvI1oGc-52" value="" style="shape=link;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-200" as="sourcePoint" />
-            <mxPoint x="420" y="-260" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JKD6H21KlIi6bBvI1oGc-53" value="M" style="resizable=0;html=1;align=left;verticalAlign=bottom;" parent="JKD6H21KlIi6bBvI1oGc-52" connectable="0" vertex="1">
-          <mxGeometry x="-1" relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JKD6H21KlIi6bBvI1oGc-54" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" parent="JKD6H21KlIi6bBvI1oGc-52" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JKD6H21KlIi6bBvI1oGc-62" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;entryX=0;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="JKD6H21KlIi6bBvI1oGc-9" edge="1">
@@ -97,11 +73,53 @@
         <mxCell id="JKD6H21KlIi6bBvI1oGc-15" value="naam: Eric van Dalen&#xa;geboortedatum: 24-12-1977" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JKD6H21KlIi6bBvI1oGc-14" vertex="1">
           <mxGeometry y="30" width="170" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="JKD6H21KlIi6bBvI1oGc-67" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERmandOne;" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="310" y="290" as="sourcePoint" />
-            <mxPoint x="250" y="260" as="targetPoint" />
+        <mxCell id="JKD6H21KlIi6bBvI1oGc-6" value="Inzittende" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="339" y="-260" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JKD6H21KlIi6bBvI1oGc-7" value="naam: Hugo Veterink&#xa;geboortedatum: 09-03-1983&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JKD6H21KlIi6bBvI1oGc-6" vertex="1">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bfBggUcrYScZbxtAzATt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.875;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="JKD6H21KlIi6bBvI1oGc-6" source="JKD6H21KlIi6bBvI1oGc-7" target="JKD6H21KlIi6bBvI1oGc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JKD6H21KlIi6bBvI1oGc-18" value="Rijbewijs" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="610" y="-50" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JKD6H21KlIi6bBvI1oGc-19" value="rijbewijsnummer: 3982053960&#xa;persoonsgegevens: Hilde Achterbos&#xa;geldig-vanaf-datum: 23-03-2010&#xa;geldig-tot-datum: 23-03-2020&#xa;type: Fiesta Corsa" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JKD6H21KlIi6bBvI1oGc-18" vertex="1">
+          <mxGeometry y="30" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bfBggUcrYScZbxtAzATt-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JKD6H21KlIi6bBvI1oGc-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="-60" as="sourcePoint" />
+            <mxPoint x="310" y="-60" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bfBggUcrYScZbxtAzATt-3" value="M" style="resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="bfBggUcrYScZbxtAzATt-2">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bfBggUcrYScZbxtAzATt-4" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="bfBggUcrYScZbxtAzATt-2">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bfBggUcrYScZbxtAzATt-5" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.012;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="JKD6H21KlIi6bBvI1oGc-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="-110" as="sourcePoint" />
+            <mxPoint x="330" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bfBggUcrYScZbxtAzATt-6" value="M" style="resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="bfBggUcrYScZbxtAzATt-5">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bfBggUcrYScZbxtAzATt-7" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="bfBggUcrYScZbxtAzATt-5">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bfBggUcrYScZbxtAzATt-10" value="" style="shape=link;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.381;exitY=1.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JKD6H21KlIi6bBvI1oGc-32" target="JKD6H21KlIi6bBvI1oGc-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="-50" as="sourcePoint" />
+            <mxPoint x="149" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bfBggUcrYScZbxtAzATt-11" value="1" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="bfBggUcrYScZbxtAzATt-10">
+          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
